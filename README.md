@@ -1,5 +1,8 @@
 # 👋 Hi, I’m @syahrulfadli
-📫 Reach me callsyahrul[at]gmail.com
+
+📫 Reach me [callsyahrul[at]gmail.com](mailto:callsyahrul@gmail.com)
+
+🌐️ More at [syahrulfadli.netlify.app](https://syahrulfadli.netlify.app)
 
 <!---
 syahrulfadli/syahrulfadli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
