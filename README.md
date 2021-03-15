@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @syahrulfadli
-- 📫 How to reach me callsyahrul[at]gmail.com
+# 👋 Hi, I’m @syahrulfadli
+📫 Reach me callsyahrul[at]gmail.com
 
 <!---
 syahrulfadli/syahrulfadli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
