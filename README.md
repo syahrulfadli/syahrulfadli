@@ -2,7 +2,7 @@
 
 📫 Reach me [callsyahrul[at]gmail.com](mailto:callsyahrul@gmail.com)
 
-🌐️ More at [syahrulfadli.netlify.app](https://syahrulfadli.netlify.app)
+🌐️ More at [blog.fadlii.com](https:/blog.fadlii.com)
 
 <!---
 syahrulfadli/syahrulfadli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
